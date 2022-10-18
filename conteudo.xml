@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+<postagem>
+<titulo>Noticia1</titulo>
+<corpo>Primeira noticia 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat optio tenetur laudantium illo? Saepe beatae tempore magnam excepturi, error perspiciatis enim voluptatibus dolorum, vel aut, dolor id est minima provident!</corpo>
+<imagem><hulk class="jpg"></hulk></imagem>
+    </postagem>
+    <titulo>Noticia</titulo>
+<corpo>Segunda noticia 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat optio tenetur laudantium illo? Saepe beatae tempore magnam excepturi, error perspiciatis enim voluptatibus dolorum, vel aut, dolor id est minima provident!</corpo>
+<imagem>mm.jpg</imagem>
+    </postagem>
+</conteudo>
